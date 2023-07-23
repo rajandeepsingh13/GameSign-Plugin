@@ -1,0 +1,22 @@
+{
+	"bluefileName":"flower",
+	"blueframeNumber":60,
+	"bluefolderName":"MacarthurBates/flower",
+	"blueImageName":"WordIcons/flower",
+	"greenfileName":"dad",
+	"greenframeNumber":47,
+	"greenfolderName":"MacarthurBates/dad",
+	"greenImageName":"WordIcons/dad",
+	"redfileName":"frog",
+	"redframeNumber":49,
+	"redfolderName":"MacarthurBates/frog",
+	"redImageName":"WordIcons/frog",
+	"violetfileName":"giraffe",
+	"violetframeNumber":43,
+	"violetfolderName":"MacarthurBates/giraffe",
+	"violetImageName":"WordIcons/giraffe",
+	"yellowfileName":"wait",
+	"yellowframeNumber":67,
+	"yellowfolderName":"MacarthurBates/wait",
+	"yellowImageName":"WordIcons/wait"
+}

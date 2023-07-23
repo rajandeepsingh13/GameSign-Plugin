@@ -1,0 +1,22 @@
+{
+    "bluefileName":"where",
+    "blueframeNumber":60,
+    "bluefolderName":"MacarthurBates/where",
+    "blueImageName":"WordIcons/where",
+    "greenfileName":"dad",
+    "greenframeNumber":49,
+    "greenfolderName":"MacarthurBates/dad",
+    "greenImageName":"WordIcons/dad",
+    "redfileName":"red",
+    "redframeNumber":47,
+    "redfolderName":"MacarthurBates/red", 
+    "redImageName":"WordIcons/red", 
+    "violetfileName":"elephant", 
+    "violetframeNumber":67,
+    "violetfolderName":"MacarthurBates/elephant", 
+    "violetImageName":"WordIcons/elephant", 
+    "yellowfileName":"owl",
+    "yellowframeNumber": 43,
+    "yellowfolderName":"MacarthurBates/owl",
+    "yellowImageName":"WordIcons/owl"
+}

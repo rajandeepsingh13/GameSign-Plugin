@@ -1,0 +1,22 @@
+{
+	"bluefileName":"dance",
+	"blueframeNumber":71,
+	"bluefolderName":"MacarthurBates/dance",
+	"blueImageName":"WordIcons/dance",
+	"greenfileName":"food",
+	"greenframeNumber":76,
+	"greenfolderName":"MacarthurBates/food",
+	"greenImageName":"WordIcons/food",
+	"redfileName":"hot",
+	"redframeNumber":53,
+	"redfolderName":"MacarthurBates/hot",
+	"redImageName":"WordIcons/hot",
+	"violetfileName":"where",
+	"violetframeNumber":32,
+	"violetfolderName":"MacarthurBates/where",
+	"violetImageName":"WordIcons/where",
+	"yellowfileName":"yellow",
+	"yellowframeNumber":68,
+	"yellowfolderName":"MacarthurBates/yellow",
+	"yellowImageName":"WordIcons/yellow"
+}

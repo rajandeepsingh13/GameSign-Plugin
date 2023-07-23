@@ -1,0 +1,22 @@
+{
+	"bluefileName":"alligator",
+	"blueframeNumber":60,
+	"bluefolderName":"MacarthurBates/alligator",
+	"blueImageName":"WordIcons/alligator",
+	"greenfileName":"shhh",
+	"greenframeNumber":47,
+	"greenfolderName":"MacarthurBates/shhh",
+	"greenImageName":"WordIcons/shhh",
+	"redfileName":"another",
+	"redframeNumber":49,
+	"redfolderName":"MacarthurBates/another",
+	"redImageName":"WordIcons/another",
+	"violetfileName":"animal",
+	"violetframeNumber":43,
+	"violetfolderName":"MacarthurBates/animal",
+	"violetImageName":"WordIcons/animal",
+	"yellowfileName":"boy",
+	"yellowframeNumber":67,
+	"yellowfolderName":"MacarthurBates/boy",
+	"yellowImageName":"WordIcons/boy"
+}
